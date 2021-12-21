@@ -1,0 +1,60 @@
+.home_type_background {
+    width: 100%;
+    height: 100px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.35);
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+.home_type_title {
+    margin-top: -10px;
+    font-family: PingFangSC-Semibold;
+    font-size: 22px;
+    color: #000000;
+    font-weight: 600;
+}
+
+.home_type_explain {
+    width: 244px;
+    height: 20px;
+    font-family: PingFangSC-Semibold;
+    font-size: 14px;
+    color: #000000;
+    font-weight: 600;
+}
+
+.home_type_icon {
+    width: 30px;
+    height: 30px;
+    margin-top: -10px;
+}
+
+.home_type_faq {
+    font-family: PingFangSC-Semibold;
+    font-size: 22px;
+    color: #000000;
+    font-weight: 600;
+    float: left;
+}
+
+.home_type_faq_r{
+    float: right;
+    color: #555555;
+}
+
+.home_type_faq_bg {
+    height: 50px;
+    padding: 15px 0;
+    width: 100%;
+}
+.home_type_faq_svg {
+    width: 30px;
+    height: 30px;
+}
+.home_text{
+    text-align: left;
+    width: 240px;
+    overflow: hidden;/*超出部分隐藏*/
+    white-space: nowrap;/*不换行*/
+    text-overflow:ellipsis;/*超出部分文字以...显示*/
+}

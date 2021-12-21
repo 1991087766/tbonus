@@ -1,0 +1,34 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Announcement": {
+    "message": "Announcement",
+    "description": "The label for category Announcement in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.BeginnerGuide": {
+    "message": "BeginnerGuide",
+    "description": "The label for category BeginnerGuide in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Business_description": {
+    "message": "Business_description",
+    "description": "The label for category Business_description in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Finance": {
+    "message": "Finance",
+    "description": "The label for category Finance in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Faq": {
+    "message": "Faq",
+    "description": "The label for category Faq in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Terms_description": {
+    "message": "Terms_description",
+    "description": "The label for category Terms_description in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Abount": {
+    "message": "Abount",
+    "description": "The label for category Abount in sidebar tutorialSidebar"
+  }
+}
